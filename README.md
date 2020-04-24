@@ -1,2 +1,2 @@
-# example
-Code example
+# Code example
+DTO объект, получение данных из массива и дальнейшая работа с ним.
